@@ -1,0 +1,19 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\obj\Debug\Prova.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Prova\Prova\obj\Debug\Prova.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\bin\Debug\Prova.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\bin\Debug\Prova.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\bin\Debug\Prova.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\obj\Debug\Prova.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Primeiro Exercicio\PrimeiroExercicio\Prova\obj\Debug\Prova.pdb
