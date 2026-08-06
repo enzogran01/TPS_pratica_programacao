@@ -28,5 +28,40 @@ namespace Prova
         {
             BLL.desconecta();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int totalToneladas = 0;
+            float totalValores = 0;
+
+            Cliente.setCNPJ(textBox1.Text);
+            
+            BLL.validaCNPJ();
+            if (Erro.getErro())
+            {
+                MessageBox.Show(Erro.getMsg());
+            }
+            else
+            {
+                textBox2.Text = Cliente.getNome();
+            }
+
+
+            listBox1.Items.Clear();
+            listBox2.Items.Clear();
+            listBox3.Items.Clear();
+            BLL.getProximo();
+            while (!Erro.getErro())
+            {
+                listBox1.Items.Add(VendaCliente.getData());
+                listBox2.Items.Add(VendaCliente.getToneladas());
+                listBox3.Items.Add(VendaCliente.getValor());
+                totalToneladas += int.Parse(VendaCliente.getToneladas());
+                totalValores += float.Parse(VendaCliente.getValor());
+                BLL.getProximo();
+            }
+            textBox3.Text = totalToneladas.ToString();
+            textBox4.Text = totalValores.ToString();
+        }
     }
 }

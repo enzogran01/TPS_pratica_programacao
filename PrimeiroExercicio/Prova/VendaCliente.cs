@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Prova
 {
-    class VendaCliente
+    static class VendaCliente
     {
         private static String codigo;
         private static String cnpj;

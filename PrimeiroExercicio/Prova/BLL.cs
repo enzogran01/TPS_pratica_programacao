@@ -10,7 +10,7 @@ namespace Prova
     {
         public static void conecta()
         {
-            DAL.conecta();
+            DAL.conecta();            
         }
 
         public static void desconecta()
@@ -37,7 +37,12 @@ namespace Prova
                 return;
             }
 
-            //DAL.consultaUmCliente();
+            DAL.consultaUmCliente();
+        }
+
+        public static void getProximo()
+        {
+            DAL.getProximo();
         }
     }
 }

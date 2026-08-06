@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Prova
 {
-    class Cliente
+    static class Cliente
     {
         private static String cnpj;
         private static String nome;
 
-        public void setCNPJ(String _cnpj) { cnpj = _cnpj; }
-        public void setNome(String _nome) { nome = _nome; }
-        public String getCNPJ() { return cnpj; }
-        public String getNome() { return nome; }
+        public static void setCNPJ(String _cnpj) { cnpj = _cnpj; }
+        public static void setNome(String _nome) { nome = _nome; }
+        public static String getCNPJ() { return cnpj; }
+        public static String getNome() { return nome; }
     }
 }

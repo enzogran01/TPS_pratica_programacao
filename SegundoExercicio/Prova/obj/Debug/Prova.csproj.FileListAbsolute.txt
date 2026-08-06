@@ -26,3 +26,14 @@ C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\Segu
 C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Segundo Exercicio\SegundoExercicio\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
 C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Segundo Exercicio\SegundoExercicio\Prova\obj\Debug\Prova.exe
 C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula03\Segundo Exercicio\SegundoExercicio\Prova\obj\Debug\Prova.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\bin\Debug\Prova.exe.config
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\bin\Debug\Prova.exe
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\bin\Debug\Prova.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.exe
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\SegundoExercicio\Prova\obj\Debug\Prova.pdb
