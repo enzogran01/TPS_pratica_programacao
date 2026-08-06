@@ -31,7 +31,51 @@ namespace Prova
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int totalTon = 0;
+            float totalVal = 0;
 
+            Cliente.setCNPJ(textBox1.Text);
+
+            BLL.validaCNPJ();
+
+            if (Erro.getErro())
+            {
+                MessageBox.Show(Erro.getMsg());
+            }
+            else
+            {
+                textBox2.Text = Cliente.getNome();
+            }
+
+
+            if (radioButton1.Checked)
+            {
+                BLL.getProximo("ton");
+                while (!Erro.getErro())
+                {
+                    //listBox1.Items.Add(VendaCliente.getData());
+                    //listBox2.Items.Add(VendaCliente.getToneladas());
+                    //listBox3.Items.Add(VendaCliente.getValor());
+
+                    chart1.Series.Add(VendaCliente.getToneladas());
+
+                    totalTon += int.Parse(VendaCliente.getToneladas());
+                    BLL.getProximo("ton");
+                }
+                textBox3.Text = totalTon.ToString();
+            } else
+            {
+                BLL.getProximo("val");
+                while (!Erro.getErro())
+                {
+                    //listBox1.Items.Add(VendaCliente.getData());
+                    //listBox2.Items.Add(VendaCliente.getToneladas());
+                    //listBox3.Items.Add(VendaCliente.getValor());
+                    totalVal += float.Parse(VendaCliente.getValor());
+                    BLL.getProximo("val");
+                }
+                textBox3.Text = totalVal.ToString();
+            }
         }
     }
 }

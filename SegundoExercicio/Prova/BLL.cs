@@ -37,7 +37,12 @@ namespace Prova
                 return;
             }
 
-            //DAL.consultaUmCliente();
+            DAL.consultaUmCliente();
+        }
+
+        public static void getProximo(String type)
+        {
+            DAL.getProximo(type);
         }
     }
 }
