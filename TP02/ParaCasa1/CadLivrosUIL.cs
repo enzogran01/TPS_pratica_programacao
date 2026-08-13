@@ -38,8 +38,10 @@ namespace ParaCasa1
          private void button1_Click(object sender, EventArgs e)
         {
             List<Livro> livros = new List<Livro>();
-            TextWriter arquivo = new StreamWriter("livros.json");
-            JsonSerializer obj = new JsonSerializer();
+            TextWriter arquivoJson = new StreamWriter("livros.json");
+            TextWriter arquivoXml = new StreamWriter("livros.xml");
+            JsonSerializer objJson = new JsonSerializer();
+            XmlSerializer objXml = new XmlSerializer(livros.GetType());
             int i = 0;
 
             umlivro = LivroBLL.getProximo();
@@ -51,8 +53,10 @@ namespace ParaCasa1
                 ++i;
                 umlivro = LivroBLL.getProximo();
             }
-            obj.Serialize(arquivo, livros);
-            arquivo.Close();
+            objJson.Serialize(arquivoJson, livros);
+            arquivoJson.Close();
+            objXml.Serialize(arquivoXml, livros);
+            arquivoXml.Close();
         }
 
     }

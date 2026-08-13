@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLivro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Livro>
+    <codigo>1</codigo>
+    <titulo>Aprendendo C#</titulo>
+    <autor>Maria</autor>
+    <editora>IFET Cubatão</editora>
+    <ano>2012</ano>
+  </Livro>
+  <Livro>
+    <codigo>2</codigo>
+    <titulo>Santa Ingenuidade</titulo>
+    <autor>Isabella</autor>
+    <editora>IFET Cubatão</editora>
+    <ano>2012</ano>
+  </Livro>
+  <Livro>
+    <codigo>3</codigo>
+    <titulo>3</titulo>
+    <autor>3</autor>
+    <editora>3</editora>
+    <ano>3</ano>
+  </Livro>
+  <Livro>
+    <codigo>4</codigo>
+    <titulo>4</titulo>
+    <autor>4</autor>
+    <editora>4</editora>
+    <ano>4</ano>
+  </Livro>
+  <Livro>
+    <codigo>18</codigo>
+    <titulo>Santa Pressa</titulo>
+    <autor>Rubens</autor>
+    <editora>IFET</editora>
+    <ano>2012</ano>
+  </Livro>
+  <Livro>
+    <codigo>19</codigo>
+    <titulo>Programas Meia Boca</titulo>
+    <autor>Mauricio</autor>
+    <editora>IFET</editora>
+    <ano>2012</ano>
+  </Livro>
+  <Livro>
+    <codigo>9</codigo>
+    <titulo>9</titulo>
+    <autor>9</autor>
+    <editora>9</editora>
+    <ano>9</ano>
+  </Livro>
+  <Livro>
+    <codigo>77</codigo>
+    <titulo>Exercícios do Maurício resolvidos e comentados</titulo>
+    <autor>Jonas</autor>
+    <editora>Jonas Ltda. Me.</editora>
+    <ano>2012</ano>
+  </Livro>
+  <Livro>
+    <codigo>33</codigo>
+    <titulo>O Pedido do Rubens</titulo>
+    <autor>Mauricio</autor>
+    <editora>Atende-se já</editora>
+    <ano>2012</ano>
+  </Livro>
+</ArrayOfLivro>
