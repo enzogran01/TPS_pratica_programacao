@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe.config
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\bin\Debug\TP_Envia.pdb
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Form1.resources
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Properties.Resources.resources
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.exe
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.pdb
