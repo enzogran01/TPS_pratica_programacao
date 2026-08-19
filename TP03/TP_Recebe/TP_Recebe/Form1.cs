@@ -25,10 +25,14 @@ namespace TP_Recebe
             EndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
             byte[] data = new byte[1024];
             int qtdbytes;
+            button1.Enabled = false;
 
-            socketreceber.Bind(endereco);
-            qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
-            listBox1.Items.Add(Encoding.ASCII.GetString(data, 0, qtdbytes));
+            while (true)
+            {
+                socketreceber.Bind(endereco);
+                qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
+                listBox1.Items.Add(Encoding.ASCII.GetString(data, 0, qtdbytes));
+            }
         }
     }
 }
