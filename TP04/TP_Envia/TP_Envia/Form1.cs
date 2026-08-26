@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using Newtonsoft.Json;
 
 namespace TP_Envia
 {
@@ -23,17 +24,20 @@ namespace TP_Envia
 
         private void button1_Click(object sender, EventArgs e)
         {
+            ChatMessage chatmessage = new ChatMessage(textBox2.Text, textBox1.Text);
+            String jsonString = JsonConvert.SerializeObject(chatmessage);
+
             Socket socketenviar = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
             IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
 
-            socketenviar.SendTo(Encoding.ASCII.GetBytes(textBox1.Text), endereco);
+            socketenviar.SendTo(Encoding.ASCII.GetBytes(jsonString), endereco);
             socketenviar.Close();
         }
 
         private void processo()
         {
             Socket socketreceber = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
-            EndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
+            EndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9070);
             byte[] data = new byte[1024];
             socketreceber.Bind(endereco);
             int qtdbytes;
@@ -41,11 +45,14 @@ namespace TP_Envia
             while (true)
             {
                 qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
+
+                string jsonRecebido = Encoding.ASCII.GetString(data, 0, qtdbytes);
+                ChatMessage msgRecebida = JsonConvert.DeserializeObject<ChatMessage>(jsonRecebido);
+
                 listBox1.Invoke((Action)delegate ()
                 {
-                    listBox1.Items.Add(Encoding.ASCII.GetString(data, 0, qtdbytes));
+                    listBox1.Items.Add($"{(msgRecebida.username == textBox2.Text ? "Você" : msgRecebida.username)}: {msgRecebida.message}");
                 });
-
             }
             socketreceber.Close();
         }
@@ -54,6 +61,11 @@ namespace TP_Envia
         {
             minhaThread = new Thread(new ThreadStart(this.processo));
             minhaThread.Start();
+        }
+
+        private void textBox2_Leave(object sender, EventArgs e)
+        {
+            textBox2.Enabled = false;
         }
     }
 }

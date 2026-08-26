@@ -20,3 +20,6 @@ C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Deb
 C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.CoreCompileInputs.cache
 C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.exe
 C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.CopyComplete
