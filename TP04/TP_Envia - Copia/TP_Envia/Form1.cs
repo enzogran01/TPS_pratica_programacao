@@ -28,7 +28,7 @@ namespace TP_Envia
             String jsonString = JsonConvert.SerializeObject(chatmessage);
 
             Socket socketenviar = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
-            IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9070);
+            IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
 
             listBox1.Items.Add($"Você: {chatmessage.message}");
 
@@ -39,7 +39,7 @@ namespace TP_Envia
         private void processo()
         {
             Socket socketreceber = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
-            EndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
+            EndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9070);
             byte[] data = new byte[1024];
             socketreceber.Bind(endereco);
             int qtdbytes;
