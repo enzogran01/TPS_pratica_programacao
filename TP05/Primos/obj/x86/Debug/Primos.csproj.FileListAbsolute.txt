@@ -45,3 +45,11 @@ C:\Users\unisanta\Desktop\Bim01Aula04\Parte II\NumerosPrimos\Primos\obj\x86\Debu
 C:\Users\unisanta\Desktop\Bim01Aula04\Parte II\NumerosPrimos\Primos\obj\x86\Debug\Primos.csproj.CoreCompileInputs.cache
 C:\Users\unisanta\Desktop\Bim01Aula04\Parte II\NumerosPrimos\Primos\obj\x86\Debug\Primos.exe
 C:\Users\unisanta\Desktop\Bim01Aula04\Parte II\NumerosPrimos\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\obj\x86\Debug\Primos.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\obj\x86\Debug\Primos.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\obj\x86\Debug\Primos.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\obj\x86\Debug\Primos.exe
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\obj\x86\Debug\Primos.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\bin\Debug\Primos.exe.config
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\bin\Debug\Primos.exe
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP05\Primos\bin\Debug\Primos.pdb
