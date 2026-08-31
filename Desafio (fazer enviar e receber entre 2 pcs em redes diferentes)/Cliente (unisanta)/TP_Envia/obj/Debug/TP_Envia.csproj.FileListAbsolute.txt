@@ -1,0 +1,53 @@
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe.config
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\bin\Debug\TP_Envia.pdb
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Form1.resources
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Properties.Resources.resources
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.exe
+C:\Users\unisanta\Desktop\TP_Envia\TP_Envia\obj\Debug\TP_Envia.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe.config
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\bin\Debug\TP_Envia.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Form1.resources
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Properties.Resources.resources
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.exe
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.pdb
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\unisanta\Desktop\TPS_pratica_programacao\TP04\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.CopyComplete
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe.config
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\bin\Debug\TP_Envia.exe
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\bin\Debug\TP_Envia.pdb
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.AssemblyReference.cache
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.exe.config
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Form1.resources
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.Properties.Resources.resources
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.GenerateResource.cache
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.csproj.Up2Date
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.exe
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\TP_Envia\TP_Envia\obj\Debug\TP_Envia.pdb
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\bin\Debug\TP_Envia.exe.config
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\bin\Debug\TP_Envia.exe
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\bin\Debug\TP_Envia.pdb
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.csproj.AssemblyReference.cache
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.exe.config
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.Form1.resources
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.Properties.Resources.resources
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.csproj.GenerateResource.cache
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.csproj.Up2Date
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.exe
+C:\Users\Administrador\OneDrive\Desktop\TPS_pratica_programacao\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\Cliente (unisanta)\TP_Envia\obj\Debug\TP_Envia.pdb
