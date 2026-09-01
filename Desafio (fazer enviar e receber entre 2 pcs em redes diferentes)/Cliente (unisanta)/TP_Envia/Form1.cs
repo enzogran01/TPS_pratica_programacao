@@ -29,6 +29,7 @@ namespace TP_Envia
                 MessageBox.Show("Digite um nome de usuário antes de enviar uma mensagem.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
+            if (textBox1.Text == "") return;
             ChatMessage chatmessage = new ChatMessage(textBox2.Text, textBox1.Text);
             String jsonString = JsonConvert.SerializeObject(chatmessage);
 
@@ -37,6 +38,8 @@ namespace TP_Envia
 
             listBox1.Items.Add($"Você: {chatmessage.message}");
             textBox1.Clear();
+            listBox1.TopIndex = listBox1.Items.Count - 1;
+            textBox1.Focus();
 
             socketenviar.SendTo(Encoding.ASCII.GetBytes(jsonString), endereco);
             socketenviar.Close();
@@ -60,6 +63,7 @@ namespace TP_Envia
                 listBox1.Invoke((Action)delegate ()
                 {
                     listBox1.Items.Add($"{(msgRecebida.username == textBox2.Text ? "Você" : msgRecebida.username)}: {msgRecebida.message}");
+                    listBox1.TopIndex = listBox1.Items.Count - 1;
                 });
             }
             socketreceber.Close();
@@ -74,6 +78,32 @@ namespace TP_Envia
         private void textBox2_Leave(object sender, EventArgs e)
         {
             textBox2.Enabled = false;
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                if (!string.IsNullOrWhiteSpace(textBox1.Text))
+                {
+                    button1_Click(this, new EventArgs());
+                    textBox1.Clear();
+                }
+            }
+        }
+
+        private void textBox2_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                if (!string.IsNullOrWhiteSpace(textBox2.Text))
+                {
+                    textBox2.Enabled = false;
+                    textBox1.Focus();
+                }
+            }
         }
     }
 }

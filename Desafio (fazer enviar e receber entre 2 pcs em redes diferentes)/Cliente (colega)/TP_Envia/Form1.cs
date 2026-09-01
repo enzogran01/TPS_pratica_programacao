@@ -37,6 +37,8 @@ namespace TP_Envia
 
             listBox1.Items.Add($"Você: {chatmessage.message}");
             textBox1.Clear();
+            listBox1.TopIndex = listBox1.Items.Count - 1;
+            textBox1.Focus();
 
             socketenviar.SendTo(Encoding.ASCII.GetBytes(jsonString), endereco);
             socketenviar.Close();
@@ -60,6 +62,7 @@ namespace TP_Envia
                 listBox1.Invoke((Action)delegate ()
                 {
                     listBox1.Items.Add($"{(msgRecebida.username == textBox2.Text ? "Você" : msgRecebida.username)}: {msgRecebida.message}");
+                    listBox1.TopIndex = listBox1.Items.Count - 1;
                 });
             }
             socketreceber.Close();
