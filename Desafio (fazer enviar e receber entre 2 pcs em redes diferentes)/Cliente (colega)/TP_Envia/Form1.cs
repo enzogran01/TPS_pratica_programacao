@@ -33,7 +33,7 @@ namespace TP_Envia
             String jsonString = JsonConvert.SerializeObject(chatmessage);
 
             Socket socketenviar = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
-            IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
+            IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("26.118.134.215"), 9060);
 
             listBox1.Items.Add($"Você: {chatmessage.message}");
             textBox1.Clear();
