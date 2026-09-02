@@ -11,7 +11,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 using Newtonsoft.Json;
-
+// CLIENTE COLEGA 26.207.103.30
 namespace TP_Envia
 {
     public partial class Form1 : Form
@@ -77,6 +77,32 @@ namespace TP_Envia
         private void textBox2_Leave(object sender, EventArgs e)
         {
             textBox2.Enabled = false;
+        }
+
+        private void textBox2_KeyDown_1(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                if (!string.IsNullOrWhiteSpace(textBox2.Text))
+                {
+                    textBox2.Enabled = false;
+                    textBox1.Focus();
+                }
+            }
+        }
+
+        private void textBox1_KeyDown_1(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                if (!string.IsNullOrWhiteSpace(textBox1.Text))
+                {
+                    button1_Click(this, new EventArgs());
+                    textBox1.Clear();
+                }
+            }
         }
     }
 }
