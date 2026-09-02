@@ -29,6 +29,7 @@ namespace TP_Envia
                 MessageBox.Show("Digite um nome de usuário antes de enviar uma mensagem.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
+            if (textBox1.Text == "") return;
             ChatMessage chatmessage = new ChatMessage(textBox2.Text, textBox1.Text);
             String jsonString = JsonConvert.SerializeObject(chatmessage);
 
