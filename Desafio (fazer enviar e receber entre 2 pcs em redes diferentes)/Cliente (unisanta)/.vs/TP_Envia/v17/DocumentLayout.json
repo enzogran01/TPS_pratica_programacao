@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\OneDrive\\Desktop\\TPS_pratica_programacao\\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\Cliente (unisanta)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|c:\\users\\administrador\\onedrive\\desktop\\tps_pratica_programacao\\desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\cliente (unisanta)\\tp_envia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|C:\\Users\\Administrador\\OneDrive\\Desktop\\TPS_pratica_programacao\\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\Cliente (unisanta)\\tp_envia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|solutionrelative:tp_envia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|c:\\users\\administrador\\onedrive\\desktop\\tps_pratica_programacao\\desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\cliente (unisanta)\\tp_envia\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|solutionrelative:tp_envia\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|C:\\Users\\Administrador\\OneDrive\\Desktop\\TPS_pratica_programacao\\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\Cliente (unisanta)\\tp_envia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|solutionrelative:tp_envia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|C:\\Users\\Administrador\\OneDrive\\Desktop\\TPS_pratica_programacao\\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\Cliente (unisanta)\\tp_envia\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E046C4D-194E-4C3A-BE8E-33539F305136}|TP_Envia\\TP_Envia.csproj|solutionrelative:tp_envia\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ChatMessage.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Desktop\\TPS_pratica_programacao\\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\Cliente (unisanta)\\TP_Envia\\ChatMessage.cs",
               "RelativeDocumentMoniker": "TP_Envia\\ChatMessage.cs",
@@ -34,11 +34,12 @@
               "RelativeToolTip": "TP_Envia\\ChatMessage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T18:59:05.884Z"
+              "WhenOpened": "2026-08-31T18:59:05.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Administrador\\OneDrive\\Desktop\\TPS_pratica_programacao\\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\Cliente (unisanta)\\TP_Envia\\Form1.cs",
               "RelativeDocumentMoniker": "TP_Envia\\Form1.cs",
@@ -56,7 +57,7 @@
               "RelativeDocumentMoniker": "TP_Envia\\Form1.cs",
               "ToolTip": "C:\\Users\\Administrador\\OneDrive\\Desktop\\TPS_pratica_programacao\\Desafio (fazer enviar e receber entre 2 pcs em redes diferentes)\\Cliente (unisanta)\\TP_Envia\\Form1.cs",
               "RelativeToolTip": "TP_Envia\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T18:59:06.737Z",
               "EditorCaption": ""

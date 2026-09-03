@@ -1,0 +1,12 @@
+{
+  "name": "tp-envia-server",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para o chat TP_Envia",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
