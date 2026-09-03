@@ -11,7 +11,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 using Newtonsoft.Json;
-// CLIENTE UNISANTA 26.118.134.215
+// CLIENTE UNISANTA 26.158.195.53
 namespace TP_Envia
 {
     public partial class Form1 : Form
@@ -34,7 +34,7 @@ namespace TP_Envia
             String jsonString = JsonConvert.SerializeObject(chatmessage);
 
             Socket socketenviar = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
-            IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("26.158.195.53"), 9070);
+            IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("26.207.103.30"), 9070);
 
             listBox1.Items.Add($"Você: {chatmessage.message}");
             textBox1.Clear();

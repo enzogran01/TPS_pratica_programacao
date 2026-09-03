@@ -9,30 +9,26 @@ namespace Primos
 {
     class Program
     {
-        static int k = 0;
-        public static bool isPrimo(int x)
-        {
-            int f = x/2 + 1;
-            for (int i=2;i<f;++i)
-                if (x%i == 0) return false;
-            return true;
-        }
         static void Main(string[] args)
         {
             DateTime inicio = DateTime.Now;
             Parallel.Invoke(
-                () => processo(1, 700000),
-                () => processo(700001, 1000000)
+                () => processo(1, 5000),
+                () => processo(2, 4000),
+                () => processo(3, 3000)
             );
+            processo(6, 1000);
             DateTime fim = DateTime.Now;
-            Console.WriteLine("Foram encontrados " + k + " numeros primos.");
             Console.WriteLine("Tempo = " + (fim - inicio));
             Console.ReadKey();
         }
-        public static void processo(int _inicio, int _fim)
+        public static void processo(int _n, int _tempo)
         {
-            for (int i = _inicio; i < _fim; ++i)
-                if (isPrimo(i)) ++k;
+            Console.WriteLine("Iniciando Processo " + _n);
+            Thread.Sleep(_tempo);
+            Console.WriteLine("Finalizando Processo " + _n);
+            if (_n == 1) processo(4, 3000);
+            if (_n == 2) processo(5, 5000);
         }
     }
 }
