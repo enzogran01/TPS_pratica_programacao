@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Livro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <codigo>1</codigo>
+  <titulo>Serializacao em C#</titulo>
+  <autor>Maurício Asenjo</autor>
+  <editora>UNISANTA</editora>
+  <ano>2013</ano>
+</Livro>
