@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Net;
 using System.Net.Sockets;
@@ -15,44 +16,57 @@ namespace ServidorRecebe
             EndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
             byte[] data = new byte[1024];
             int qtdbytes;
+            String filename;
+            // ===== INCLUI =====
+            int chave;
+            String recebido = "";
+            String descriptografado = "";
+            // =====
 
             socketreceber.Bind(endereco);
+            qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
+            Console.WriteLine(Encoding.ASCII.GetString(data, 0, qtdbytes));
+            filename = Encoding.ASCII.GetString(data, 0, qtdbytes);
 
-            qtdbytes = socketreceber.ReceiveFrom(data, ref endereco); // recebe chave
-            int key = int.Parse(Encoding.ASCII.GetString(data, 0, qtdbytes));
+            // ===== INCLUI =====
+            qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
+            chave = int.Parse(Encoding.ASCII.GetString(data, 0, qtdbytes));
+            // =====
 
-            qtdbytes = socketreceber.ReceiveFrom(data, ref endereco); // recebe nome
-            String filename = Encoding.ASCII.GetString(data, 0, qtdbytes);
+            FileStream outfile;
 
-            FileStream outfile = new FileStream(filename, FileMode.Create, FileAccess.Write);
+            outfile = new System.IO.FileStream(filename,
+                                               System.IO.FileMode.Create,
+                                               System.IO.FileAccess.Write);
 
-            List<byte> cifrado = new List<byte>();
-            List<byte> decifrado = new List<byte>();
-
+            // ===== INCLUI =====
             do
             {
-                qtdbytes = socketreceber.ReceiveFrom(data, ref endereco); // recebe até 10 bytes
+                // =====
+                qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
+                // ===== INCLUI =====
+                recebido += Encoding.GetEncoding("iso-8859-1").GetString(data, 0, qtdbytes);
+                // =====
+
                 for (int i = 0; i < qtdbytes; ++i)
                 {
-                    byte original = (byte)(data[i] - 18 - key); // descriptografa
-                    cifrado.Add(data[i]);
-                    decifrado.Add(original);
-                    outfile.WriteByte(original);
+                    // ===== INCLUI =====
+                    outfile.WriteByte((byte)(data[i] - (18 + chave)));
+                    descriptografado += (char)(data[i] - (18 + chave));
+                    // =====
                 }
-            } while (qtdbytes == 10); // pacote menor que 10 = fim
+                // ===== INCLUI =====
+            } while (qtdbytes == 10);
 
+            Console.WriteLine("Conteúdo recebido: " + recebido);
+            Console.WriteLine("Chave: " + chave);
+            Console.WriteLine("Conteúdo descriptografado: " + descriptografado);
+            // =====
             outfile.Close();
             socketreceber.Close();
-
-            Console.WriteLine("Chave: " + key);
-            Console.WriteLine();
-            Console.WriteLine("criptografado: ");
-            Console.WriteLine(BitConverter.ToString(cifrado.ToArray()));
-            Console.WriteLine();
-            Console.WriteLine("descriptografado: ");
-            Console.WriteLine(Encoding.UTF8.GetString(decifrado.ToArray()));
-
+            // ===== INCLUI =====
             Console.ReadKey();
+            // =====
         }
     }
 }

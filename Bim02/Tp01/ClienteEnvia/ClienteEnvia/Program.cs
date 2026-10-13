@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Net;
 using System.Net.Sockets;
@@ -10,37 +12,58 @@ namespace ClienteEnvia
     {
         static void Main(string[] args)
         {
+            FileStream infile;
+            int tam;
+            String buffer = "";
             String filename = "testeXML.xml";
-            Random rndNumber = new Random();
-            int key = rndNumber.Next(1, 10000);
+            // ===== INCLUI =====
+            String aux = "";
+            int chave = 5;
+            // =====
+
+            infile = new System.IO.FileStream(filename,
+                                   System.IO.FileMode.Open,
+                                   System.IO.FileAccess.Read);
+
+            tam = (int)infile.Length;
+            for (int i = 0; i < tam; ++i)
+            {
+                buffer += (char)infile.ReadByte();
+            }
+            infile.Close();
+
+            // ===== INCLUI =====
+            for (int i = 0; i < tam; ++i)
+            {
+                aux += (char)(buffer[i] + (18 + chave));
+            }
+
+            Console.WriteLine("Conteúdo do arquivo: " + buffer);
+            Console.WriteLine("Chave: " + chave);
+            Console.WriteLine("Conteúdo enviado: " + aux);
+            buffer = "";
+            // =====
 
             Socket socketenviar = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
             IPEndPoint endereco = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9060);
 
-            socketenviar.SendTo(Encoding.ASCII.GetBytes(key.ToString()), endereco); // envia chave
-            socketenviar.SendTo(Encoding.ASCII.GetBytes(filename), endereco);       // envia nome
+            Console.ReadKey();
+            socketenviar.SendTo(Encoding.ASCII.GetBytes(filename), endereco);
+            // ===== INCLUI =====
+            socketenviar.SendTo(Encoding.ASCII.GetBytes(chave.ToString()), endereco);
 
-            FileStream infile = new FileStream(filename, FileMode.Open, FileAccess.Read);
-
-            byte[] buffer = new byte[10];
-            int pos = 0;
-            int b;
-
-            while ((b = infile.ReadByte()) != -1)
+            for (int i = 0, j = 1; i < tam; ++i, ++j)
             {
-                buffer[pos++] = (byte)(b + 18 + key); // criptografa
-                if (pos == 10)
+                buffer += aux[i];
+                if (j == 10)
                 {
-                    socketenviar.SendTo(buffer, 0, pos, SocketFlags.None, endereco); // envia 10 bytes
-                    pos = 0;
+                    socketenviar.SendTo(Encoding.GetEncoding("iso-8859-1").GetBytes(buffer), endereco);
+                    j = 0;
+                    buffer = "";
                 }
             }
-
-            // resto (menos de 10 bytes, pode ser 0): serve de sinal de fim
-            socketenviar.SendTo(buffer, 0, pos, SocketFlags.None, endereco);
-
-            infile.Close();
-            Console.ReadKey();
+            socketenviar.SendTo(Encoding.GetEncoding("iso-8859-1").GetBytes(buffer), endereco);
+            // =====
             socketenviar.Close();
         }
     }

@@ -35,11 +35,11 @@ C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\Segu
 C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim01Aula09\ExerciciosFeitosSalaAula\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.CoreCompileInputs.cache
 C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim01Aula09\ExerciciosFeitosSalaAula\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
 C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\SantaLinguagem\Bim01Aula09\ExerciciosFeitosSalaAula\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe.config
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.AssemblyReference.cache
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.SuggestedBindingRedirects.cache
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.CoreCompileInputs.cache
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
-C:\Users\unisanta\Desktop\TPS_pratica_programacao\Bim02\Tp01\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe.config
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+C:\Users\Administrador\Downloads\Bim02Aula07a633640\Bim02Aula07\TPAula06\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe.config
