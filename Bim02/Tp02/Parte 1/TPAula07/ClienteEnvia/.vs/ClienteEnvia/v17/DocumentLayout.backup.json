@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Downloads\\Bim02Aula08\\Parte I\\TPAula07\\ClienteEnvia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD74DB2-A629-4110-8998-B25AC6677889}|ClienteEnvia\\ClienteEnvia.csproj|c:\\users\\administrador\\downloads\\bim02aula08\\parte i\\tpaula07\\clienteenvia\\clienteenvia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD74DB2-A629-4110-8998-B25AC6677889}|ClienteEnvia\\ClienteEnvia.csproj|solutionrelative:clienteenvia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Bim02Aula08\\Parte I\\TPAula07\\ClienteEnvia\\ClienteEnvia\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteEnvia\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Bim02Aula08\\Parte I\\TPAula07\\ClienteEnvia\\ClienteEnvia\\Program.cs",
+              "RelativeToolTip": "ClienteEnvia\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:32:00.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
