@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Arduino
+{
+    public partial class ArduinoIHM : Form
+    {
+        public ArduinoIHM()
+        {
+            InitializeComponent();
+        }
+
+        private void tratarBotoes(object sender, EventArgs e)
+        {
+            Button generico = (Button)sender;
+
+            if (generico.Text == "Ligar")
+            {
+                generico.Text = "Desligar";
+                ArduinoBLL.ligaDispositivo(generico.Tag.ToString());
+                textBox1.Text = ArduinoBLL.mostraBits(ArduinoBLL.getDisplay());
+            }
+            else
+            {
+                generico.Text = "Ligar";
+                ArduinoBLL.desligaDispositivo(generico.Tag.ToString());
+                textBox1.Text = ArduinoBLL.mostraBits(ArduinoBLL.getDisplay());
+            }
+
+            if (Erro.getErro())
+            {
+                MessageBox.Show(Erro.getMens());
+            }
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            ArduinoBLL.setDisplay(0);
+            textBox1.Text = ArduinoBLL.mostraBits(ArduinoBLL.getDisplay());
+            button1.Text = "Ligar";
+            button2.Text = "Ligar";
+            button3.Text = "Ligar";
+            button4.Text = "Ligar";
+            button5.Text = "Ligar";
+            button6.Text = "Ligar";
+            button7.Text = "Ligar";
+            button8.Text = "Ligar";
+
+            if (Erro.getErro())
+            {
+                MessageBox.Show(Erro.getMens());
+            }
+        }
+    }
+}

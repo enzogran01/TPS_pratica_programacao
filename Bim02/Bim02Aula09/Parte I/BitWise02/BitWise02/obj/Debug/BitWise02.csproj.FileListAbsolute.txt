@@ -1,0 +1,12 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise02\BitWise02\bin\Debug\BitWise02.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise02\BitWise02\bin\Debug\BitWise02.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise02\BitWise02\bin\Debug\BitWise02.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise02\BitWise02\obj\Debug\BitWise02.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise02\BitWise02\obj\Debug\BitWise02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise02\BitWise02\bin\Debug\BitWise02.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise02\BitWise02\bin\Debug\BitWise02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise02\BitWise02\bin\Debug\BitWise02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise02\BitWise02\obj\Debug\BitWise02.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise02\BitWise02\obj\Debug\BitWise02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise02\BitWise02\obj\Debug\BitWise02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise02\BitWise02\obj\Debug\BitWise02.pdb

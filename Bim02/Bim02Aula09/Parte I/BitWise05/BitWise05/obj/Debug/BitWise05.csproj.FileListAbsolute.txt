@@ -1,0 +1,20 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise05\BitWise05\bin\Debug\BitWise05.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise05\BitWise05\bin\Debug\BitWise05.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise05\BitWise05\bin\Debug\BitWise05.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise05\BitWise05\obj\Debug\BitWise05.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise05\BitWise05\obj\Debug\BitWise05.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise05\BitWise05\obj\Debug\BitWise05.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\bin\Debug\BitWise05.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\bin\Debug\BitWise05.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\bin\Debug\BitWise05.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\bin\Debug\BitWise05.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\bin\Debug\BitWise05.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\bin\Debug\BitWise05.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise05\BitWise05\obj\Debug\BitWise05.pdb

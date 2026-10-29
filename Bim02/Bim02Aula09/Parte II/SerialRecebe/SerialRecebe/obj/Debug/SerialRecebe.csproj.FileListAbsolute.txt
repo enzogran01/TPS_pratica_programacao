@@ -1,0 +1,28 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\bin\Debug\SerialRecebe.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialRecebe\SerialRecebe\obj\Debug\SerialRecebe.pdb

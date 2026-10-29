@@ -1,0 +1,19 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise04\BitWise04\bin\Debug\BitWise04.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise04\BitWise04\bin\Debug\BitWise04.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise04\BitWise04\bin\Debug\BitWise04.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise04\BitWise04\obj\Debug\BitWise04.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise04\BitWise04\obj\Debug\BitWise04.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\bin\Debug\BitWise04.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\bin\Debug\BitWise04.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\bin\Debug\BitWise04.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\bin\Debug\BitWise04.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\bin\Debug\BitWise04.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\bin\Debug\BitWise04.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula11\Parte II BitWise\BitWise04\BitWise04\obj\Debug\BitWise04.pdb

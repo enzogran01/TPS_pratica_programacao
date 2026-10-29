@@ -1,0 +1,12 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise03\BitWise03\bin\Debug\BitWise03.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise03\BitWise03\bin\Debug\BitWise03.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise03\BitWise03\bin\Debug\BitWise03.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise03\BitWise03\obj\Debug\BitWise03.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula10\BitWise03\BitWise03\obj\Debug\BitWise03.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\FederalEngenharia\Aula12\BitWise03\BitWise03\bin\Debug\BitWise03.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\FederalEngenharia\Aula12\BitWise03\BitWise03\bin\Debug\BitWise03.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\FederalEngenharia\Aula12\BitWise03\BitWise03\bin\Debug\BitWise03.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\FederalEngenharia\Aula12\BitWise03\BitWise03\obj\Debug\BitWise03.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\FederalEngenharia\Aula12\BitWise03\BitWise03\obj\Debug\BitWise03.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\FederalEngenharia\Aula12\BitWise03\BitWise03\obj\Debug\BitWise03.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\FederalEngenharia\Aula12\BitWise03\BitWise03\obj\Debug\BitWise03.pdb

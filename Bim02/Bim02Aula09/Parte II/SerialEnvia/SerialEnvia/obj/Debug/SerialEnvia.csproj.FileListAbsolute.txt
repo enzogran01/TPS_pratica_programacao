@@ -1,0 +1,29 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Federal Engenharia\Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\bin\Debug\SerialEnvia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula12\SerialEnvia\SerialEnvia\obj\Debug\SerialEnvia.pdb
