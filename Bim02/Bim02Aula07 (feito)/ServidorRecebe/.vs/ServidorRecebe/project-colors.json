@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b32bf08-b797-4dfd-a3b0-5c853e70fd68": {
+      "ProjectGuid": "4b32bf08-b797-4dfd-a3b0-5c853e70fd68",
+      "DisplayName": "ServidorRecebe",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

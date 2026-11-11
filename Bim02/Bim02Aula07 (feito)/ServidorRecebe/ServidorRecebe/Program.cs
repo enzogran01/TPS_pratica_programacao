@@ -17,21 +17,17 @@ namespace ServidorRecebe
             byte[] data = new byte[1024];
             int qtdbytes;
             String filename;
-            // ===== INCLUI =====
             int chave;
             String recebido = "";
             String descriptografado = "";
-            // =====
 
             socketreceber.Bind(endereco);
             qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
             Console.WriteLine(Encoding.ASCII.GetString(data, 0, qtdbytes));
             filename = Encoding.ASCII.GetString(data, 0, qtdbytes);
 
-            // ===== INCLUI =====
             qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
             chave = int.Parse(Encoding.ASCII.GetString(data, 0, qtdbytes));
-            // =====
 
             FileStream outfile;
 
@@ -39,34 +35,24 @@ namespace ServidorRecebe
                                                System.IO.FileMode.Create,
                                                System.IO.FileAccess.Write);
 
-            // ===== INCLUI =====
             do
             {
-                // =====
                 qtdbytes = socketreceber.ReceiveFrom(data, ref endereco);
-                // ===== INCLUI =====
                 recebido += Encoding.GetEncoding("iso-8859-1").GetString(data, 0, qtdbytes);
-                // =====
 
                 for (int i = 0; i < qtdbytes; ++i)
                 {
-                    // ===== INCLUI =====
                     outfile.WriteByte((byte)(data[i] - (18 + chave)));
                     descriptografado += (char)(data[i] - (18 + chave));
-                    // =====
                 }
-                // ===== INCLUI =====
             } while (qtdbytes == 10);
 
             Console.WriteLine("Conteúdo recebido: " + recebido);
             Console.WriteLine("Chave: " + chave);
             Console.WriteLine("Conteúdo descriptografado: " + descriptografado);
-            // =====
             outfile.Close();
             socketreceber.Close();
-            // ===== INCLUI =====
             Console.ReadKey();
-            // =====
         }
     }
 }
